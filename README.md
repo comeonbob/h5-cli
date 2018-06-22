@@ -13,16 +13,18 @@ $ npm install -g h5-cli
 ### Usage
 
 ``` bash
-$ h5-cli init <project-name>
+$ h5-cli init <h5-tempalte>
+$ h5-cli init <username/repo>
 ```
 
 Example:
 
 ``` bash
-$ h5-cli init my-project
+$ h5-cli init koa2
+$ h5-cli init comeonbob/h5-template-koa2
 ```
 
-The above command generates the project at `./my-project/`.
+The above command generates the project at `./koa2-project/`.
 
 ### Doc
 Each h5 project template has a awesome README.md, please read it first

@@ -7,7 +7,7 @@ A simple CLI for scaffolding kinds of h5 projects.
 Prerequisites: [Node.js](https://nodejs.org/en/) (>=6.x, 8.x preferred), npm version 3+ and [Git](https://git-scm.com/).
 
 ``` bash
-$ npm install -g h5-cli
+$ npm install -g h5-clis
 ```
 
 ### Usage

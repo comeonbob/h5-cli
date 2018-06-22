@@ -1,6 +1,6 @@
 {
-  "name": "h5-cli",
-  "version": "1.0.0",
+  "name": "h5-clis",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/comeonbob/h5-cli.git"
   },
   "bin": {
-    "h5-cli": "node index.js"
+    "h5-cli": "./bin/index"
   },
   "keywords": [
     "h5-cli",

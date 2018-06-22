@@ -1,0 +1,32 @@
+{
+  "name": "h5-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comeonbob/h5-cli.git"
+  },
+  "keywords": [
+    "h5-cli",
+    "frontend-cli",
+    "node-cli",
+    "simple-cli",
+    "cli"
+  ],
+  "author": "Bob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comeonbob/h5-cli/issues"
+  },
+  "homepage": "https://github.com/comeonbob/h5-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "fs-extra": "^6.0.1"
+  }
+}

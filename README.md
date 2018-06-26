@@ -36,7 +36,9 @@ Each h5 project template has a awesome README.md, please read it first
 ``` javascript
 {
   koa2: 'comeonbob/h5-template-koa2',
-  express: 'comeonbob/h5-template-express'
+  express: 'comeonbob/h5-template-express',
+  vue2: 'comeonbob/h5-template-vue2',
+  angular1: 'comeonbob/h5-template-angular1' // not simple
 }
 
 ```
